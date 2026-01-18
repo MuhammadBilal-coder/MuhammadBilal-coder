@@ -1,21 +1,7 @@
-## Muhammad Bilal
+✨ Muhammad Bilal ✨
 
-Frontend Web Development Intern  
-Computer Science Student (6th Semester)
+Frontend-Focused Web Developer | CS Student | Open for Internships & Opportunities
 
-I am a motivated Computer Science student with a strong interest in frontend web development.  
-Currently looking for a 6–8 weeks internship (remote / hybrid), including unpaid opportunities, to gain real-world experience and contribute to practical projects.
+I am a Computer Science student with a strong foundation in frontend web development and core programming concepts. I have hands-on experience with HTML, CSS, JavaScript (basic), and React, along with academic exposure to SQL, C, C#, and Java (OOP).  
 
-### Tech Stack
-- HTML  
-- CSS  
-- JavaScript  
-- Basic React (learning)  
-- Git & GitHub  
-
-### What I Am Looking For
-- Frontend Web Development Internship  
-- Remote or Hybrid  
-- Short-term (6–8 weeks)  
-
-📫 Contact: LinkedIn – https://www.linkedin.com/in/muhammad-bilal-4b0b112b0/
+Currently, I am sharpening my frontend skills while building a solid base for future growth in Machine Learning and Data Analysis. I am eager to learn, improve, and work on real-world projects that help me grow as a professional developer.
