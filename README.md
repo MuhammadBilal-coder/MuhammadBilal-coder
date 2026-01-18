@@ -284,9 +284,7 @@ Collection of Python-based mini projects and practice scripts.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadBilal-coder&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies"/>
-</div>
+
 
 <br/>
 
