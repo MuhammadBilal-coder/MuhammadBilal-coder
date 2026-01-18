@@ -101,17 +101,114 @@ Always improving skills by exploring new technologies and practices.
 </table>
 
 <hr/>
+<h2 align="center">🔥 Featured Projects</h2>
 
+<table align="center">
+<tr>
 
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="80"/>
 
+### Tourism Management System (Java)
+Semester-based Java application designed to manage tourism operations.
+
+Features include structured data handling, OOP-based architecture, and core system workflows.
+</td>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
+
+### Klondike Solitaire Game (Java)
+Java-based implementation of the Klondike Solitaire card game.
+
+Focused on game logic, object-oriented design, and user interaction handling.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="80"/>
+
+### HoneyVault (Python)
+Secure file encryption and management system developed using Python.
+
+Emphasizes data security concepts, encryption logic, and file handling mechanisms.
+</td>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="80"/>
+
+### Tourism Management System (C#)
+University project developed in C# focusing on tourism data management.
+
+Built with structured programming and fundamental system design principles.
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/>
+
+### LifeLink Prototype (C#)
+C# based prototype application created as a university project.
+
+Focused on application flow, user interaction, and modular code structure.
+</td>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="80"/>
+
+### Python Practice Projects
+Collection of Python-based mini projects and practice scripts.
+
+Used for strengthening programming logic and preparing for data-related work.
+</td>
+
+</tr>
+</table>
+
+<hr/>
+
+<h2 align="center">📬 Get in Touch</h2>
 
 <p align="center">
-Currently improving my frontend expertise while preparing for future growth in
-<b>Machine Learning</b> and <b>Data Analysis</b>.
+<a href="https://www.linkedin.com/in/muhammad-bilal-4b0b112b0/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:bilalwase19@gmail.com">
+<img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<img src="https://img.shields.io/badge/Status-AVAILABLE-2ECC71?style=for-the-badge"/>
 </p>
 
 <p align="center">
-Motivated to learn, build real-world projects, and grow as a professional developer.
+💻 Computer Science Student | Frontend-Focused Web Developer  
+</p>
+
+<p align="center">
+Open to <b>Internships</b>, <b>Learning Opportunities</b>, and <b>Collaborative Projects</b>
+</p>
+
+<p align="center">
+⚡ Fun Fact
+</p>
+
+<p align="center">
+I enjoy building projects, improving my skills, and turning academic knowledge into real-world applications.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Built%20With-Passion-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Powered%20By-Coffee-6F4E37?style=for-the-badge&logo=coffee&logoColor=white"/>
+</p>
+
+<p align="center">
+⬆️ Back to Top
 </p>
 
 <hr/>
+
