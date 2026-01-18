@@ -280,7 +280,7 @@ Collection of Python-based mini projects and practice scripts.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top Languages"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top Languages"/> -->
 </div>
 
 <br/>
@@ -338,4 +338,4 @@ Collection of Python-based mini projects and practice scripts.
 [![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-00D9FF?style=for-the-badge)](#)
 
 </div>
-<img width="607" height="7127" alt="image" src="https://github.com/user-attachments/assets/2d9ac81e-a102-4a1d-acd9-316eda478670" />
+
