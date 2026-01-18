@@ -280,9 +280,7 @@ Collection of Python-based mini projects and practice scripts.
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top Languages"/>
-</div>
+
 
 <br/>
 
