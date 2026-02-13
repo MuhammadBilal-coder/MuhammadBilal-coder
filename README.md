@@ -17,7 +17,7 @@
   <a href="mailto:bilalwase19@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://img.shields.io/badge/FREELANCER-AVAILABLE-29B2FE?style=for-the-badge" alt="Available"/>
+  <img src="https://img.shields.io/badge/OPEN_TO_WORK-AVAILABLE-29B2FE?style=for-the-badge" alt="Open to Work"/>
   <img src="https://komarev.com/ghpvc/?username=MuhammadBilal-coder&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
@@ -52,10 +52,11 @@ class MLEnthusiast:
         
     def tech_stack(self):
         return {
-            "frontend": ["HTML5", "CSS3", "JavaScript", "React"],
-            "programming": ["C", "C#", "Java (OOP)", "Python"],
-            "database": ["SQL", "Relational Databases"],
-            "tools": ["Git", "GitHub", "VS Code", "Visual Studio"]
+            "ml_data": ["EDA", "Data Cleaning", "Predictive Modeling (Learning)"],
+            "programming": ["Python", "Java (OOP)", "C#", "C"],
+            "database": ["SQL", "MySQL"],
+            "tools": ["Jupyter Notebook", "Git", "GitHub", "VS Code", "Visual Studio"],
+            "web_secondary": ["HTML5", "CSS3", "JavaScript", "React"]
         }
         
     def say_hi(self):
@@ -86,11 +87,19 @@ me.say_hi()
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚛️ Frontend & Frameworks
+### 🧠 ML & Data Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### 🌐 Web Development (Secondary)
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![C# .NET](https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C# WPF](https://img.shields.io/badge/C%23%20WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
 
@@ -114,11 +123,11 @@ me.say_hi()
 <table align="center">
 <tr>
 <td align="center" width="33%">
-<img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103832.png" width="80"/>
 <br/><br/>
 
-### Frontend Web Development
-Building responsive and user-friendly interfaces using modern frontend technologies. 
+### Data Cleaning & EDA
+Exploring datasets, handling missing values, and preparing data for analysis.
 </td>
 
 <td align="center" width="33%">
@@ -143,8 +152,8 @@ Applying OOP concepts using Java and C# for structured development.
 <img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="80"/>
 <br/><br/>
 
-### Python Programming
-Using Python for problem-solving, automation, and data-related tasks.
+### Python for Data Science
+Using Python, Pandas, and NumPy for data manipulation and analysis.
 </td>
 
 <td align="center" width="33%">
@@ -156,11 +165,11 @@ Always improving skills by exploring new technologies and practices.
 </td>
 
 <td align="center" width="33%">
-<img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="80"/>
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149677.png" width="80"/>
 <br/><br/>
 
-### React Development
-Creating dynamic and scalable single-page applications with React.
+### Predictive Modeling (Learning)
+Building foundational knowledge in machine learning and model development.
 </td>
 </tr>
 </table>
@@ -174,6 +183,42 @@ Creating dynamic and scalable single-page applications with React.
 ## 🔥 Featured Projects
 
 <table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/8637/8637099.png" width="80"/>
+<br/><br/>
+
+### 🎓 CGPA to Package Predictor
+AI-powered salary prediction system using Machine Learning to predict job packages based on CGPA.
+
+*Built with Linear Regression, FastAPI backend, and modern responsive UI with 95%+ accuracy.*
+
+<br/>
+
+`#MachineLearning` `#Python` `#FastAPI` `#LinearRegression` `#Scikit-learn`
+
+<br/>
+
+<a href="https://github.com/MuhammadBilal-coder/cgpa-package-predictor" target="_blank">
+  <img src="https://img.shields.io/badge/View_Project-black?style=for-the-badge&logo=github" alt="View Project"/>
+</a>
+</td>
+
+<td align="center" width="50%">
+<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="80"/>
+<br/><br/>
+
+### HoneyVault (Python)
+Secure file encryption and management system developed using Python.
+
+*Emphasizes data security concepts, encryption logic, and file handling mechanisms.*
+
+<br/>
+
+`#Python` `#Security` `#Encryption` `#FileSystem`
+</td>
+</tr>
+
 <tr>
 <td align="center" width="50%">
 <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" width="80"/>
@@ -206,20 +251,6 @@ Java-based implementation of the Klondike Solitaire card game.
 
 <tr>
 <td align="center" width="50%">
-<img src="https://cdn-icons-png.flaticon.com/512/1822/1822899.png" width="80"/>
-<br/><br/>
-
-### HoneyVault (Python)
-Secure file encryption and management system developed using Python.
-
-*Emphasizes data security concepts, encryption logic, and file handling mechanisms.*
-
-<br/>
-
-`#Python` `#Security` `#Encryption` `#FileSystem`
-</td>
-
-<td align="center" width="50%">
 <img src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png" width="80"/>
 <br/><br/>
 
@@ -232,9 +263,7 @@ University project developed in C# focusing on tourism data management.
 
 `#C#` `#Database` `#SystemDesign` `#OOP`
 </td>
-</tr>
 
-<tr>
 <td align="center" width="50%">
 <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="80"/>
 <br/><br/>
@@ -247,20 +276,6 @@ C# based prototype application created as a university project.
 <br/>
 
 `#C#` `#Prototype` `#Design` `#Development`
-</td>
-
-<td align="center" width="50%">
-<img src="https://cdn-icons-png.flaticon.com/512/2721/2721279.png" width="80"/>
-<br/><br/>
-
-### Python Practice Projects
-Collection of Python-based mini projects and practice scripts.
-
-*Used for strengthening programming logic and preparing for data-related work.*
-
-<br/>
-
-`#Python` `#Practice` `#Logic` `#Automation`
 </td>
 </tr>
 </table>
