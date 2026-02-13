@@ -4,11 +4,11 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+Specialist;React+%26+JavaScript+Expert;Building+Tomorrow's+Web+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Data+Science+Learner;Building+Predictive+Models;Python+%7C+SQL)](https://git.io/typing-svg)
 
 </div>
 
-<h3 align="center">💼 Open for Internships & Freelance Opportunities 💼</h3>
+<h3 align="center">💼 Open for ML/Data Science Internships & Opportunities 💼</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-bilal-4b0b112b0/" target="_blank">
@@ -32,10 +32,10 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> About Me
 
 ```python
-class WebDeveloper:
+class MLEnthusiast:
     def __init__(self):
         self.name = "Muhammad Bilal"
-        self.role = "Web Developer | Frontend Specialist"
+        self.role = "Machine Learning & Data Science Enthusiast"
         self.location = "Abbottabad, Pakistan 🇵🇰"
         self.education = "Computer Science Student (6th Semester)"
         self.status = "Available for Opportunities"
@@ -43,10 +43,10 @@ class WebDeveloper:
     def current_work(self):
         return {
             "focus": [
-                "🎯 Building responsive & modern web interfaces",
-                "⚛️ Mastering React & JavaScript ecosystem", 
-                "💡 Exploring Full Stack Development",
-                "🚀 Open for Internships & Freelance Projects"
+                "🎯 Learning Machine Learning & Predictive Modeling",
+                "📊 Working with Data Cleaning & EDA",
+                "🐍 Strengthening Python & SQL",
+                "🚀 Open for ML / Data Internships"
             ]
         }
         
@@ -61,7 +61,7 @@ class WebDeveloper:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together!  🚀")
 
-me = WebDeveloper()
+me = MLEnthusiast()
 me.say_hi()
 ```
 
@@ -280,12 +280,15 @@ Collection of Python-based mini projects and practice scripts.
 
 <br/>
 
-
-
+<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadBilal-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" alt="Top Languages"/> -->
+</div>
 
 <br/>
 
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadBilal-coder&theme=tokyonight&row=1&margin-w=15" width="100%" />
+</div>
 
 <br/>
 
@@ -297,10 +300,16 @@ Collection of Python-based mini projects and practice scripts.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-bilal-4b0b112b0/)
-[![Email](https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilalwase19@gmail.com)
-![Status](https://img.shields.io/badge/Status-AVAILABLE-2ECC71?style=for-the-badge)
-[![GitHub](https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MuhammadBilal-coder)
+<a href="https://www.linkedin.com/in/muhammad-bilal-4b0b112b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:bilalwase19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<img src="https://img.shields.io/badge/Status-AVAILABLE-2ECC71?style=for-the-badge" alt="Status"/>
+<a href="https://github.com/MuhammadBilal-coder" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 <br/><br/>
 
@@ -308,9 +317,9 @@ Collection of Python-based mini projects and practice scripts.
 
 <br/><br/>
 
-### 💼 Computer Science Student | Frontend-Focused Web Developer
+### 💼 Computer Science Student | ML & Data Science Enthusiast
 
-### 🚀 Open to **Internships**, **Learning Opportunities**, and **Collaborative Projects**
+### 🚀 Open to **ML/Data Internships**, **Learning Opportunities**, and **Collaborative Projects**
 
 <br/>
 
@@ -320,8 +329,8 @@ Collection of Python-based mini projects and practice scripts.
 
 <br/>
 
-![Built with Passion](https://img.shields.io/badge/Built%20With-❤️%20Passion-FF6B6B?style=for-the-badge)
-![Powered by Coffee](https://img.shields.io/badge/Powered%20By-☕%20Coffee-6F4E37?style=for-the-badge)
+<img src="https://img.shields.io/badge/Built%20With-❤️%20Passion-FF6B6B?style=for-the-badge" alt="Built with Passion"/>
+<img src="https://img.shields.io/badge/Powered%20By-☕%20Coffee-6F4E37?style=for-the-badge" alt="Powered by Coffee"/>
 
 <br/><br/>
 
@@ -333,7 +342,6 @@ Collection of Python-based mini projects and practice scripts.
 
 <div align="center">
   
-[![Back to Top](https://img.shields.io/badge/⬆️%20Back%20to%20Top-00D9FF?style=for-the-badge)](#)
+<a href="#"><img src="https://img.shields.io/badge/⬆️%20Back%20to%20Top-00D9FF?style=for-the-badge" alt="Back to Top"/></a>
 
 </div>
-
